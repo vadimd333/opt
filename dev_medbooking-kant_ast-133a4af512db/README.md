@@ -25,7 +25,7 @@ DIRECTORY STRUCTURE
 -------------------
 
 ```
-common
+Common
     config/              contains shared configurations
     mail/                contains view files for e-mails
     models/              contains model classes used in both backend and frontend
